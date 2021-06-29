@@ -16,6 +16,7 @@ Computer vision algorithms that we use today are based on pattern recognition. W
 computers process images, label objects on them, and find patterns in those objects.
 
 Face Detection works on haarcascade algorithm in which the face is recognised by program by comparing the dataset in haarcascade.
+
 ![Capture](https://user-images.githubusercontent.com/71040750/123792320-1de87b00-d8fe-11eb-9b11-18fca984dd7d.PNG)
 
 
