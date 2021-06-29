@@ -1,4 +1,4 @@
-# face-and-eye-detection
+# Face-And-Eye-Detection
 Computer Vision:
 Computer vision comes from modelling image processing using the techniques of machine learning. Computer vision applies machine learning to recognize patterns for interpretation of images.
 
